@@ -1,4 +1,4 @@
-# ** CPSC 349: Front-End Web Engineering - Spring 2020 ** 
+# CPSC 349: Front-End Web Engineering - Spring 2020 
 ## Homework 1, due 19 Feb 2020
 Work through Chapters 3 (Styles) and ch. 4 (Responsive Layouts with Flexbox) of the textbook, play
 some games designed to teach you CSS Layout, and publish the result to GitHub.
